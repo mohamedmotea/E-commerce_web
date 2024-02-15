@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2530ef20.css",
+    "main.js": "/static/js/main.c09bf129.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/mainSlide1.jpg": "/static/media/mainSlide1.4d2ad166041dbf014b88.jpg",
+    "static/media/slide3.jpg": "/static/media/slide3.99839f3856e8e6b2d205.jpg",
+    "static/media/mainSlide2.jpg": "/static/media/mainSlide2.44ce62e9851b6f6eb616.jpg",
+    "static/media/slide1.jpg": "/static/media/slide1.34985856fbd558255f57.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/slide2.jpg": "/static/media/slide2.6bf5993440b66a884a3e.jpg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/freshcart-logo.svg": "/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.2530ef20.css.map": "/static/css/main.2530ef20.css.map",
+    "main.c09bf129.js.map": "/static/js/main.c09bf129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2530ef20.css",
+    "static/js/main.c09bf129.js"
+  ]
+}
